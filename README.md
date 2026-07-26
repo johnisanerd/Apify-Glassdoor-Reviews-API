@@ -280,4 +280,4 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the Glassdoor Reviews API to power your employer-brand monitoring, people analytics, and employee sentiment research with reliable, structured results.*
 
-Last Updated: 2026.07.11
+Last Updated: 2026.07.26
