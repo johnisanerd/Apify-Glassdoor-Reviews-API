@@ -276,6 +276,14 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 ---
 
+## Use it from n8n
+
+There is a free, ready-made n8n template built on this API: [Log weekly Glassdoor reviews to Google Sheets](https://n8n.io/workflows/17480-log-weekly-glassdoor-reviews-to-google-sheets-using-apify/). It runs on a weekly schedule and appends one row per review, with the star rating, pros, cons, and per-category ratings, to a sheet you pick. It uses the official Apify node, so it works on n8n Cloud with a live preview.
+
+Self-hosting n8n? There is also a dedicated community node: [`n8n-nodes-glassdoor-reviews-api`](https://www.npmjs.com/package/n8n-nodes-glassdoor-reviews-api) on npm.
+
+---
+
 [**Made with care**](https://apify.com/johnvc?fpr=9n7kx3)
 
 *Use the Glassdoor Reviews API to power your employer-brand monitoring, people analytics, and employee sentiment research with reliable, structured results.*
