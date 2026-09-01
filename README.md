@@ -288,4 +288,4 @@ Self-hosting n8n? There is also a dedicated community node: [`n8n-nodes-glassdoo
 
 *Use the Glassdoor Reviews API to power your employer-brand monitoring, people analytics, and employee sentiment research with reliable, structured results.*
 
-Last Updated: 2026.08.31
+Last Updated: 2026.09.01
