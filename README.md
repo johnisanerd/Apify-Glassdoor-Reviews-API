@@ -299,4 +299,4 @@ Open a ready-to-send prompt about the Glassdoor Reviews API in the AI of your ch
 - 🅒 [Copilot](https://copilot.microsoft.com/?q=How%20do%20I%20use%20the%20Glassdoor%20Reviews%20API%20by%20johnvc%20on%20Apify%20%28https://apify.com/johnvc/glassdoor-reviews-api?fpr=9n7kx3%29?%20Show%20me%20input%20examples%2C%20output%20fields%2C%20common%20use%20cases%2C%20and%20how%20to%20integrate%20it%20into%20a%20workflow.)
 <!-- ask-ai:end -->
 
-Last Updated: 2026.09.22
+Last Updated: 2026.10.27
